@@ -36,4 +36,4 @@ resilience · ISO/IEC 42001 · NIST AI RMF
 
 ## Contact
 
-LinkedIn: [your profile link]
+LinkedIn: https://www.linkedin.com/in/tanjim-azad/
